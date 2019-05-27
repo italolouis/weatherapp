@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <!-- Strings related to login -->
+    <string name="lblNovocadastro">Não possui uma conta? <b>Cadastre-se</b></string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="label_nova_senha">Esqueçeu a senha?</string>
+    <string name="action_sign_in">Entrar</string>
+
+    <string name="lblCadastroEmail">E-mail</string>
+    <string name="lblCadastroSenha">Senha</string>
+    <string name="action_cadastrar">Cadastrar</string>
+</resources>
